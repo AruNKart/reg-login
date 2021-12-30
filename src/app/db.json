@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "Gmail": "arunkarthick@gmail.com",
+      "password": "arunV@!1",
+      "id": 2
+    },
+    {
+      "Gmail": "arunkarthick@gmail.com",
+      "password": "Nofear@1997",
+      "confirm_password": "Nofear@1997",
+      "id": 3
+    },
+    {
+      "Gmail": "arunkarthick@gmail.com",
+      "password": "Nofear@1997",
+      "confirm_password": "Nofear@199",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
